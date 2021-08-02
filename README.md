@@ -8,6 +8,6 @@ To install search channel creOS on youtube Then click on the How to Install creO
 # Downloads
 If you haven't Downloaded it [click here](https://github.com/creek951/creOS/archive/refs/heads/main.zip)
 # Beta Program
-If you haven't joined the beta program [click here](https://github.com/creek951/creOS-Beta/archive/refs/main.zip
+If you haven't joined the beta program [click here](https://github.com/creek951/creOS-Beta/archive/refs/main.zip)
 # Terms of Service
 Copyright creOS ©2007-2021
